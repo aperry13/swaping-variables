@@ -3,8 +3,8 @@ let a ='red';
 let b ='blue';
 
 //Swapping code goes here ...
-b = a;
-a = b;
+
+
 
 let c = a;
 a = b;
